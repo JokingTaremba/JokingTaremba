@@ -91,7 +91,7 @@ Developer passionate about solving real-world problems with technology, always l
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokingTaremba&theme=tokyonight&layout=compact&custom_title=Technologies" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokingTaremba&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8" 
   />
 
 </p>
