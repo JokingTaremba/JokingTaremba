@@ -19,13 +19,6 @@ Developer passionate about solving real-world problems with technology, always l
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
         />
     </a>
-    <a href="https://github.com/JokingTaremba?tab=followers">
-        <img
-            alt="Followers"
-            title="Followers"
-            src="https://custom-icon-badges.demolab.com/github/followers/JokingTaremba?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
