@@ -73,15 +73,6 @@ Developer passionate about solving real-world problems with technology, always l
 
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JokingTaremba&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
