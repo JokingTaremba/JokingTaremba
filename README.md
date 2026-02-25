@@ -42,6 +42,7 @@ Developer passionate about solving real-world problems with technology, always l
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" 
 />
+
 <img 
     align="left" 
     alt="Spring" 
@@ -50,6 +51,7 @@ Developer passionate about solving real-world problems with technology, always l
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -76,6 +78,7 @@ Developer passionate about solving real-world problems with technology, always l
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Docker" 
