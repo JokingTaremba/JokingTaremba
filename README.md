@@ -33,6 +33,15 @@ Developer passionate about solving real-world problems with technology, always l
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Kotlin"
+    title="Kotlin" 
+    width="70px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" 
+/>
 <img 
     align="left" 
     alt="Spring" 
@@ -49,6 +58,16 @@ Developer passionate about solving real-world problems with technology, always l
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Android"
+    title="Android" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" 
+/>
+
 <img 
     align="left" 
     alt="Git" 
