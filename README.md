@@ -21,7 +21,7 @@ Developer passionate about solving real-world problems with technology, always l
     </a>
 </p>
 
----
+-----
 
 ### 🤖 Languages ​​and Technologies
 
@@ -91,7 +91,7 @@ Developer passionate about solving real-world problems with technology, always l
 <br/>
 <br/>
 
----
+-----
 
 ### 📊 Statistics
 
