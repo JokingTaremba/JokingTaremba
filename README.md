@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Joking Taremba
+# Joking Taremba
 
 **`Software Developer`**
 
@@ -23,7 +23,7 @@ Developer passionate about solving real-world problems with technology, always l
 
 -----
 
-### 🤖 Languages ​​and Technologies
+### Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -93,7 +93,7 @@ Developer passionate about solving real-world problems with technology, always l
 
 -----
 
-### 📊 Statistics
+### Statistics
 
 <img 
       align="left" 
